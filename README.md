@@ -23,11 +23,11 @@ Parameters:
     - for column 'G' rows 141-155 in probabilityDistribution.csv
  
  A detailed description of the project is in the file 'The Rainbow Project.pptx'
- Using pyinstaller I made executable files for windows (data analytics/build/data/data.exe) and linux (data analytics/dist/data / data). 
+ Using pyinstaller I made executable files for windows (/build/data/data.exe) and linux (/dist/data / data). 
  The Result.csv file is an example of an output file
  
  Run program:
- - Windows click on data.exe in data analytics/build/data
- - Linux run terminal, go to data analytics/dist/data folder and then run command ./data
- - Any OS - in terminal, go to data analytics and then run command python data.py
+ - Windows click on data.exe in /build/data
+ - Linux run terminal, go to /dist/data folder and then run command ./data
+ - Any OS - in terminal, go to folder with data.py file and then run command python data.py
  
